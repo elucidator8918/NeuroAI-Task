@@ -8,7 +8,7 @@ This project is designed to train a model on the Hymenoptera dataset using a ViT
 
 The model is trained on the Hymenoptera dataset with the performance and logs visualized using TensorBoard.
 
-![Results](result.png)
+![Results](https://github.com/user-attachments/assets/4beede49-3d40-4bf9-bb47-3952ace78f6f)
 
 | Step | Test Accuracy | Train Loss | Train Learning Rate |
 |------|----------------|----------------|---------------------|
